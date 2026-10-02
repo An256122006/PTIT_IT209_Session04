@@ -1,4 +1,4 @@
-# Bản cập nhật chính: README trên nhánh main
+# README hợp nhất: Kết hợp nội dung từ main và feature-update
 
 ## Mục tiêu
 

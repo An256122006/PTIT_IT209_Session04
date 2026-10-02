@@ -1,4 +1,4 @@
-# 3. Trường hợp 1 — Reset
+# Bản cập nhật chính: README trên nhánh main
 
 ## Mục tiêu
 

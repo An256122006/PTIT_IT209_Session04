@@ -1,4 +1,4 @@
-# 3. Trường hợp 1 — Reset
+# Tính năng mới: Cập nhật README trên nhánh feature-update
 
 ## Mục tiêu
 
